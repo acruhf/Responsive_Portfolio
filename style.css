@@ -1,6 +1,17 @@
 body{
     font-family: 'Arvo', serif;
-    color:#f7dba7
+    color:#f7dba7;
+    background-image: linear-gradient(#1e2d2f, #041f1e);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.navbar-dark .navbar-brand{
+    color:#F1AB86; 
+    font-size: xx-large;
+}
+.navbar-dark .navbar-nav .nav-link.active{
+color:#F1AB86;
 }
 .container{
     border-color:#041f1e ;
@@ -22,6 +33,11 @@ form{
     border-color:#041f1e;
     border-style: inset;
     padding: 4px;
+}
+.btn-primary {
+    background-color: #C57B57;
+    border-color:#F1AB86 ;
+    color: #f7dba7;
 }
 img{
     max-height:100%;
