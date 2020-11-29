@@ -1,17 +1,33 @@
 body{
     font-family: 'Arvo', serif;
+    color:#f7dba7
 }
 .container{
-    color:#f7dba7 ;
     border-color:#041f1e ;
     border-width: 4px;
     border-style: inset;
     padding: 4px;
-
 }
 .page-header{
+    background-color: #C57B57;
     text-align:center;
     border-style: inset;
     border-width: 4px;
     border-color:#041f1e;
+}
+form{
+    background-color: #1e2d2f;
+    max-width: 100%;
+    border-width: 4px;
+    border-color:#041f1e;
+    border-style: inset;
+    padding: 4px;
+}
+img{
+    max-height:100%;
+    max-width:100%;
+    border-style: inset;
+    border-width: 4px;
+    border-color: #F1AB86;
+    margin: 5px;
 }
