@@ -1,17 +1,12 @@
 # Homework_02-Responsive_Portfolio
 
-Created Index, contact, & portfolio pages
-imported bootstrap stylesheet
-created Navbar
-edited navbar style and added placeholders
-edited column-row grid layout
-edited style on homepage contents 
-updated style on Navbar and unified across pages
-created form and formatting for contact page
-compiled screenshots for portfolio
-refined style sheets
-added portfolio images
-fixed links to other pages
-removed navbar button
-cleaned up style on html elements
+## Project Description
+This assignment was all about using Bootstrap and CSS to design a portfolio website to display our work as web developers. Crucially, the website had to account for different screen sizes and be perfectly functional on both computer and mobile. I chose to start with a 5-color pallette and frame a minimal, sleek border-in-border design over a subtle gradient.
 
+
+## Application Link
+https://acruhf.github.io/Homework_02-Responsive_Portfolio/
+
+
+### Credits
+Collaborated with Amanda Wiehrs
