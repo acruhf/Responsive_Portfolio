@@ -21,7 +21,7 @@ color:#F1AB86;
 }
 .page-header{
     background-color: #C57B57;
-    text-align:center;
+    text-align: center;
     border-style: inset;
     border-width: 4px;
     border-color:#041f1e;
@@ -42,6 +42,13 @@ form{
 img{
     max-height:100%;
     max-width:100%;
+    margin: 5px;
+    border-style: inset;
+    border-width: 4px;
+    border-color: #041f1e;
+}
+
+.self{
     border-style: inset;
     border-width: 4px;
     border-color: #F1AB86;
