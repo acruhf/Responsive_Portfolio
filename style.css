@@ -26,31 +26,25 @@ color:#F1AB86;
     border-width: 4px;
     border-color:#041f1e;
 }
-form{
-    background-color: #1e2d2f;
-    max-width: 100%;
-    border-width: 4px;
-    border-color:#041f1e;
-    border-style: inset;
-    padding: 4px;
-}
-.btn-primary {
-    background-color: #C57B57;
-    border-color:#F1AB86 ;
-    color: #f7dba7;
-}
 img{
     max-height:100%;
     max-width:100%;
+}
+.portfolio{
     margin: 5px;
     border-style: inset;
     border-width: 4px;
     border-color: #041f1e;
 }
-
 .self{
     border-style: inset;
     border-width: 4px;
     border-color: #F1AB86;
     margin: 5px;
+}
+a {
+    color: #f7dba7;
+}
+a:hover {
+    color:  #C57B57;
 }
