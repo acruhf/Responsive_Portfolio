@@ -5,7 +5,7 @@ This assignment was all about using Bootstrap and CSS to design a portfolio webs
 
 
 ### Application Link
-Deployed Link: [https://acruhf.github.io/Homework_02-Responsive_Portfolio/]
+Deployed Link: [https://acruhf.github.io/Responsive_Portfolio/]
 
 ### Screenshot of Deployed Page
 ![screenshot](assets/screenshots/screenshot_full.png "Site Preview")
